@@ -1,0 +1,5 @@
+C:\Purecode\DP.C#\vs2015\Composite.Menu\bin\Debug\Composite.exe
+C:\Purecode\DP.C#\vs2015\Composite.Menu\bin\Debug\Composite.pdb
+C:\Purecode\DP.C#\vs2015\Composite.Menu\obj\Debug\Composite.Menu.csprojResolveAssemblyReference.cache
+C:\Purecode\DP.C#\vs2015\Composite.Menu\obj\Debug\Composite.exe
+C:\Purecode\DP.C#\vs2015\Composite.Menu\obj\Debug\Composite.pdb

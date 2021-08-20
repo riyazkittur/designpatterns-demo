@@ -1,0 +1,5 @@
+bin\Debug\HeadFirstDesignPatterns.Singleton.InterestRate.dll
+bin\Debug\HeadFirstDesignPatterns.Singleton.InterestRate.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\HeadFirstDesignPatterns.Singleton.InterestRate.dll
+obj\Debug\HeadFirstDesignPatterns.Singleton.InterestRate.pdb

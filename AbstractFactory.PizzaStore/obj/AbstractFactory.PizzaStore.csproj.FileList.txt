@@ -1,0 +1,5 @@
+bin\Debug\HeadFirstDesignPatterns.AbstractFactory.PizzaStore.dll
+bin\Debug\HeadFirstDesignPatterns.AbstractFactory.PizzaStore.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\HeadFirstDesignPatterns.AbstractFactory.PizzaStore.dll
+obj\Debug\HeadFirstDesignPatterns.AbstractFactory.PizzaStore.pdb

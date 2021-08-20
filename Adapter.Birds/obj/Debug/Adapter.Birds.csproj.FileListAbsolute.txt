@@ -1,0 +1,5 @@
+C:\Purecode\DP.C#\vs2015\Adapter.Birds\bin\Debug\Adapter.exe
+C:\Purecode\DP.C#\vs2015\Adapter.Birds\bin\Debug\Adapter.pdb
+C:\Purecode\DP.C#\vs2015\Adapter.Birds\obj\Debug\Adapter.Birds.csprojResolveAssemblyReference.cache
+C:\Purecode\DP.C#\vs2015\Adapter.Birds\obj\Debug\Adapter.exe
+C:\Purecode\DP.C#\vs2015\Adapter.Birds\obj\Debug\Adapter.pdb

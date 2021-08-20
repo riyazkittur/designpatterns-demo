@@ -1,0 +1,5 @@
+bin\Debug\HeadFirstDesignPatterns.Decorator.Starbuzz.dll
+bin\Debug\HeadFirstDesignPatterns.Decorator.Starbuzz.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\HeadFirstDesignPatterns.Decorator.Starbuzz.dll
+obj\Debug\HeadFirstDesignPatterns.Decorator.Starbuzz.pdb

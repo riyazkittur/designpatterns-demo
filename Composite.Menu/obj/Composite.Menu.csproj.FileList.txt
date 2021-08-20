@@ -1,0 +1,5 @@
+bin\Debug\HeadFirstDesignPatterns.Composite.Menu.dll
+bin\Debug\HeadFirstDesignPatterns.Composite.Menu.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\HeadFirstDesignPatterns.Composite.Menu.dll
+obj\Debug\HeadFirstDesignPatterns.Composite.Menu.pdb

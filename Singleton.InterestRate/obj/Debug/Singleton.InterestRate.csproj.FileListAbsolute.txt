@@ -1,0 +1,11 @@
+C:\Purecode\DP.C#\vs2015\Singleton.InterestRate\bin\Debug\Singleton.InterestRate.exe
+C:\Purecode\DP.C#\vs2015\Singleton.InterestRate\bin\Debug\Singleton.InterestRate.pdb
+C:\Purecode\DP.C#\vs2015\Singleton.InterestRate\obj\Debug\Singleton.InterestRate.csprojResolveAssemblyReference.cache
+C:\Purecode\DP.C#\vs2015\Singleton.InterestRate\obj\Debug\Singleton.InterestRate.exe
+C:\Purecode\DP.C#\vs2015\Singleton.InterestRate\obj\Debug\Singleton.InterestRate.pdb
+C:\Purecode\DP.C#\vs2017\Singleton.InterestRate\bin\Debug\Singleton.InterestRate.exe
+C:\Purecode\DP.C#\vs2017\Singleton.InterestRate\bin\Debug\Singleton.InterestRate.pdb
+C:\Purecode\DP.C#\vs2017\Singleton.InterestRate\obj\Debug\Singleton.InterestRate.csprojAssemblyReference.cache
+C:\Purecode\DP.C#\vs2017\Singleton.InterestRate\obj\Debug\Singleton.InterestRate.csproj.CoreCompileInputs.cache
+C:\Purecode\DP.C#\vs2017\Singleton.InterestRate\obj\Debug\Singleton.InterestRate.exe
+C:\Purecode\DP.C#\vs2017\Singleton.InterestRate\obj\Debug\Singleton.InterestRate.pdb

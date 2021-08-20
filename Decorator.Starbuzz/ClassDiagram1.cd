@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Beverage" Collapsed="true">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAIIAAABAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Beverages.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CondimentDecorator" Collapsed="true">
+    <Position X="10.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CondimentDecorator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DarkRoast" Collapsed="true">
+    <Position X="6.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAABAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DarkRoast.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Decaf" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAABAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Decaf.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Expresso" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAIAAAABAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Expresso.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HouseBlend" Collapsed="true">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAABAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>HouseBlend.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mocha" Collapsed="true">
+    <Position X="9.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAIAAAABAAAAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>Mocha.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Soy" Collapsed="true">
+    <Position X="5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAABAAAAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>Soy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Decorator.Startup" Collapsed="true">
+    <Position X="18.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Startup.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HeadFirstDesignPatterns.Decorator.Starbuzz.SteamedMilk" Collapsed="true">
+    <Position X="7.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAABAAAAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>SteamedMilk.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HeadFirstDesignPatterns.Decorator.Starbuzz.Whip" Collapsed="true">
+    <Position X="11.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAABAAAAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>Whip.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="BeverageSize" Collapsed="true">
+    <Position X="18.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAgAAAAAAAAAgBAAAAAAAAAAAAA=</HashCode>
+      <FileName>BeverageEnumerators.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

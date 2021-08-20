@@ -1,0 +1,5 @@
+bin\Debug\HeadFirstDesignPatterns.Adapter.Birds.dll
+bin\Debug\HeadFirstDesignPatterns.Adapter.Birds.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\HeadFirstDesignPatterns.Adapter.Birds.dll
+obj\Debug\HeadFirstDesignPatterns.Adapter.Birds.pdb

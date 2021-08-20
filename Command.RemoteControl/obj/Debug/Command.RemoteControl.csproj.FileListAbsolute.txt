@@ -1,0 +1,11 @@
+C:\Purecode\DP.C#\vs2015\Command.RemoteControl\bin\Debug\Command.RemoteControl.exe
+C:\Purecode\DP.C#\vs2015\Command.RemoteControl\bin\Debug\Command.RemoteControl.pdb
+C:\Purecode\DP.C#\vs2015\Command.RemoteControl\obj\Debug\Command.RemoteControl.csprojResolveAssemblyReference.cache
+C:\Purecode\DP.C#\vs2015\Command.RemoteControl\obj\Debug\Command.RemoteControl.exe
+C:\Purecode\DP.C#\vs2015\Command.RemoteControl\obj\Debug\Command.RemoteControl.pdb
+C:\Purecode\DP.C#\vs2017\Command.RemoteControl\bin\Debug\Command.RemoteControl.exe
+C:\Purecode\DP.C#\vs2017\Command.RemoteControl\bin\Debug\Command.RemoteControl.pdb
+C:\Purecode\DP.C#\vs2017\Command.RemoteControl\obj\Debug\Command.RemoteControl.csprojAssemblyReference.cache
+C:\Purecode\DP.C#\vs2017\Command.RemoteControl\obj\Debug\Command.RemoteControl.csproj.CoreCompileInputs.cache
+C:\Purecode\DP.C#\vs2017\Command.RemoteControl\obj\Debug\Command.RemoteControl.exe
+C:\Purecode\DP.C#\vs2017\Command.RemoteControl\obj\Debug\Command.RemoteControl.pdb
